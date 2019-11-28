@@ -1,0 +1,1 @@
+This project is an exercise to display the basics of HTML and CSS through the replication of the Google Homepage. 
